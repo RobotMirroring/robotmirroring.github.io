@@ -1,15 +1,19 @@
 ---
 title: "
-Robot mirroring: Improving well-being by fostering empathy with an artificial agent representing the self"
+Robot mirroring: Promoting Empathy with an Artificial Agent by Reflecting the User's Physiological Affective States"
 authors:
-- David
-- Felix
 - admin
-date: "2021-09-28T00:00:00Z"
-doi: ""
+- Marisabel
+- David
+- Felipe
+- Felix
+- Jose
+
+date: "2020-09-01T00:00:00Z"
+doi: "10.1109/RO-MAN47096.2020.9223598"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-09-28T00:00:00Z"
+publishDate: "2020-08-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,29 +22,27 @@ publishDate: "2021-09-28T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2021 9th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)*
-publication_short: In *ACIIW2021*
+publication: In *2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*
+publication_short: In *ROMAN 2020*
 
-abstract: Well-being has become a major societal goal. Being well means being physically and mentally healthy. Additionally, feeling empowered is also a component of well-being. Recently, self-tracking has been proposed as means to achieve increased awareness, thus, giving the opportunity to identify and decrease undesired behaviours. However, inappropriately communicated self-tracking results might cause the opposite effect. To address this, a subtle self-tracking feedback by mirroring the self's state into an embodied artificial agent has been proposed. By eliciting empathy towards the artificial agent and fostering helping behaviours, users would help themselves as well. We searched the literature to find supporting or opposing evidence for the robot mirroring framework. The results showed an increasing interest in self-tracking technologies for well-being management. Current discussions disseminate what can be achieved with different levels of automation; the type and relevance of feedback; and the role that artificial agents, such as chatbots and robots, might play to support people's therapies. These findings support further development of the robot mirroring framework to improve medical, hedonic, and eudaemonic well-being.
+abstract: "Self-tracking aims to increase awareness, decrease undesired behaviors, and ultimately lead towards a healthier lifestyle. However, inappropriate communication of self-tracking results might cause the opposite effect. Subtle self-tracking feedback is an alternative that can be provided with the aid of an artificial agent representing the self. Hence, we propose a wearable pet that reflects the user's affective states through visual and haptic feedback. By eliciting empathy and fostering helping behaviors towards it, users would indirectly help themselves without explicit feedback. A wearable prototype was built, and three user studies performed to evaluate the appropriateness of the proposed affective representations. Visual representations using facial and body cues were clear for valence and less clear for arousal. Haptic interoceptive patterns emulating heart-rate levels matched the desired feedback urgency levels with a saturation frequency. The integrated visuo-haptic representations matched to participants own affective experience. From the results, we derived three design guidelines for future robot mirroring wearable systems: physical embodiment, interoceptive feedback, and customization."
 
 # Summary. An optional shortened abstract.
 summary: With a a subtle self-tracking feedback by mirroring the self's state into an embodied artificial agent has been proposed. By eliciting empathy towards the artificial agent and fostering helping behaviours, users would help themselves as well. We searched the literature to find supporting or opposing evidence for the robot mirroring framework.
 
 tags:
-- Source Themes
+# - Source Themes
 featured: true
 
 links:
-- name: Custom Link
-  url: https://ieeexplore.ieee.org/abstract/document/9666320/authors#authors
-url_pdf: https://www.monicaperusquia.com/publications/2021-Gomez-Robot%20Mirroring%20Improving%20wellbeing%20by%20fostering%20empathy%20with%20an%20artificial%20agent%20representing%20the%20self.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: https://www.monicaperusquia.com/publications/2020-Perusquia-Hernandez-Robot%20mirroring%20empathy%20with%20an%20artificial%20agent.pdf
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -65,6 +67,6 @@ projects:
 slides:
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->

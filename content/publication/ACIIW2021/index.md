@@ -6,7 +6,7 @@ authors:
 - Felix
 - admin
 date: "2021-09-28T00:00:00Z"
-doi: ""
+doi: "10.1109/ACIIW52867.2021.9666320"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-28T00:00:00Z"
@@ -27,20 +27,18 @@ abstract: Well-being has become a major societal goal. Being well means being ph
 summary: With a a subtle self-tracking feedback by mirroring the self's state into an embodied artificial agent has been proposed. By eliciting empathy towards the artificial agent and fostering helping behaviours, users would help themselves as well. We searched the literature to find supporting or opposing evidence for the robot mirroring framework.
 
 tags:
-- Source Themes
+# - Source Themes
 featured: true
 
 links:
-- name: Custom Link
-  url: https://ieeexplore.ieee.org/abstract/document/9666320/authors#authors
 url_pdf: https://www.monicaperusquia.com/publications/2021-Gomez-Robot%20Mirroring%20Improving%20wellbeing%20by%20fostering%20empathy%20with%20an%20artificial%20agent%20representing%20the%20self.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -65,6 +63,6 @@ projects:
 slides:
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
