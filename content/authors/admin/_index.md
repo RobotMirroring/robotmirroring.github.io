@@ -27,6 +27,9 @@ education:
   - course: PhD in Human Informatics
     institution: University of Tsukuba
     year: 2018
+  - course: Professional Doctorate in Engineering in User-System Interaction
+    institution: University of Tsukuba
+    year: 2014
   - course: MSc in Human-Technology Interaction
     institution: Eindhoven University of Technology
     year: 2012
