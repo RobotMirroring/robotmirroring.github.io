@@ -11,6 +11,39 @@
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/aciiw2021/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/roman2020/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/david-a.-gomez-jauregui/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/felix-dollack/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/monica-perusquia-hernandez/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,24 +59,6 @@
     <loc>/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/nelson-bighetti/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -53,12 +68,6 @@
     <loc>/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/admin/</loc>
   </url><url>
     <loc>/contact/</loc>
@@ -67,6 +76,10 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>/author/diego-felipe-paez-granados/</loc>
+  </url><url>
+    <loc>/author/jose-salazar/</loc>
+  </url><url>
+    <loc>/author/marisabel-cuberos-balda/</loc>
   </url>
 </urlset>

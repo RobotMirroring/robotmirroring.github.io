@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Salazar | Robot Mirroring Research Group</title>
+    <link>/author/jose-salazar/</link>
+      <atom:link href="/author/jose-salazar/index.xml" rel="self" type="application/rss+xml" />
+    <description>José Salazar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/jose-salazar/avatar_hu77cbcb33b92472bb625b4e6eab3527fe_5762_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>José Salazar</title>
+      <link>/author/jose-salazar/</link>
+    </image>
+    
+  </channel>
+</rss>
