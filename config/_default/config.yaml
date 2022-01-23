@@ -6,6 +6,7 @@
 title: Wowchemy Research Group # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
+publishdir: "docs"
 
 ############################
 ## LANGUAGE
@@ -77,3 +78,9 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
