@@ -5,12 +5,26 @@
     <link>/author/marisabel-cuberos-balda/</link>
       <atom:link href="/author/marisabel-cuberos-balda/index.xml" rel="self" type="application/rss+xml" />
     <description>Marisabel Cuberos Balda</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/marisabel-cuberos-balda/avatar_huf963f7ba270127d0edc40da7d75e9998_4361_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Marisabel Cuberos Balda</title>
       <link>/author/marisabel-cuberos-balda/</link>
     </image>
+    
+    <item>
+      <title> Robot mirroring: Promoting Empathy with an Artificial Agent by Reflecting the User&#39;s Physiological Affective States</title>
+      <link>/publication/roman2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/roman2020/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
