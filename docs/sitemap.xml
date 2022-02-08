@@ -11,6 +11,9 @@
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>/author/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/aciiw2021/</loc>
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,9 +21,6 @@
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/david-a.-gomez-jauregui/</loc>
     <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/felix-dollack/</loc>
@@ -47,10 +47,10 @@
     <loc>/publication/roman2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/diego-felipe-paez-granados/</loc>
+    <loc>/author/diego-paez-granados/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/jose-salazar/</loc>
+    <loc>/author/jose-v.-salazar-l./</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/marisabel-cuberos-balda/</loc>
@@ -84,11 +84,5 @@
     <loc>/people/</loc>
   </url><url>
     <loc>/categories/</loc>
-  </url><url>
-    <loc>/author/diego-felipe-paez-granados/</loc>
-  </url><url>
-    <loc>/author/jose-v.-salazar-l./</loc>
-  </url><url>
-    <loc>/author/marisabel-cuberos-balda/</loc>
   </url>
 </urlset>

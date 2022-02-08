@@ -23,16 +23,16 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I work on soft robotics designs and control methods for assisting people with mobility impairments, (e.g., cerebral palsy, and spinal cord injuries) in posture transitions and locomotion, based on soft and compliance principles for robot design and control.
+bio: "I work on soft robotics designs and control methods for assisting people with mobility impairments, (e.g., cerebral palsy, and spinal cord injuries) in posture transitions and locomotion, based on soft and compliance principles for robot design and control.
 I care a lot for the path that technology is taking and how we influence its way to improve our world.
-My main research work and interest are on wearable robotics, human-robot interaction, mobility systems, biomechanical design and medical robotics.
+My main research work and interest are on wearable robotics, human-robot interaction, mobility systems, biomechanical design and medical robotics."
 
 interests:
 - Artificial Intelligence
 - Computational Design
 - Robot Control and Design
 - Assistive Technologies
-- Explainable Data Modeling 
+- Explainable Data Modeling
 
 education:
   courses:
@@ -53,7 +53,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:dfpg@ieee.org'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DrDiegoPaez
@@ -70,14 +70,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "dfpg@ieee.org"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Diego works on soft robotics designs and control methods for assisting people with mobility impairments, (e.g., cerebral palsy, and spinal cord injuries) in posture transitions and locomotion, based on soft and compliance principles for robot design and control. He cares a lot for the path that technology is taking and how we influence its way to improve our world. His main research work and interest are on wearable robotics, human-robot interaction, mobility systems, biomechanical design and medical robotics.
