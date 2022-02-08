@@ -1,10 +1,10 @@
 ---
 # Display name
-title: David A. Gómez Jáuregui
+title: David Antonio Gómez Jáuregui
 
 # Username (this should match the folder name)
 authors:
-- David A. Gómez Jáuregui
+- David Antonio Gómez Jáuregui
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,46 +14,55 @@ role: Affective Computing Scientist, Stress specialist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: ESTIA INSTITUTE OF TECHNOLOGY
+  url: "https://www.estia.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: David Antonio Gómez Jáuregui is an Assistant Professor of Computer Science at ESTIA Institute of Technology
+(Bidart, France). His research interests are focused on creating new ways of natural user interaction
+with computers by detecting emotions, gestural and non-verbal behaviours from users. This is a multidisciplinary
+research involving Human-Computer Interaction, Affective Computing, Computer Vision and Artificial Intelligence. 
+Before joining ESTIA, he was as a postdoctoral researcher at IBM France Center for
+Advanced Studies (2015-2016). He was also a postdoctoral researcher at LIMSI-CNRS (2012-2015) and at
+INRIA Rennes (2011-2012). He received his PhD in Computer Science at Télécom SudParis, France, on May
+2011. He has supervised 1 PhD thesis, two post-doc and several engineering and master students.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Research interests:
+-Automatic detection of human nonverbal behavior
+-Emotion recognition from video sequences and physiological data
+-Emotion recognition and elicitation for Virtual Reality scenarios
+-Emotional Human-Computer interaction
+-Gesture interaction with robots and virtual environments
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Institut Mines-Télécom / Télécom SudParis, Evry, France
+    year: 2011
+  - course: Master's Degree in Computer Science
+    institution: Monterrey Institute of Technology and Higher Education (ITESM), Cuernavaca, Mexico
+    year: 2004
+  - course: Bachelor's Degree in Computer Systems Engineering 
+    institution:  Monterrey Institute of Technology and Higher Education (ITESM), Cuernavaca, Mexico
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: research gate
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
+  link: https://www.researchgate.net/profile/David-Jauregui-4
+- icon: HAL
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://cv.archives-ouvertes.fr/david-antonio-gomez-jauregui
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: http://scholar.google.com/citations?user=jvONh1MAAAAJ&hl=en
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/david-antonio-gomez-jauregui-a4325332/?originalSubdomain=fr
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,7 +77,3 @@ email: ""
 user_groups:
 - Researchers
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
