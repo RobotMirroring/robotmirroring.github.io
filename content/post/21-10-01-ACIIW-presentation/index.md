@@ -1,6 +1,6 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Presentation at ACII2021
+date: 2021-10-01
 ---
 
 Our paper on Robot mirroring: Improving well-being by fostering empathy with an artificial agent representing the self was presented at ACII2021.
