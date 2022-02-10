@@ -1,4 +1,4 @@
-\---
+---
 # Display name
 title: David Antonio Gómez Jáuregui
 
@@ -21,7 +21,7 @@ organizations:
 bio: "David Antonio Gómez Jáuregui is an Assistant Professor of Computer Science at ESTIA Institute of Technology
 (Bidart, France). His research interests are focused on creating new ways of natural user interaction
 with computers by detecting emotions, gestural and non-verbal behaviours from users. This is a multidisciplinary
-research involving Human-Computer Interaction, Affective Computing, Computer Vision and Artificial Intelligence. 
+research involving Human-Computer Interaction, Affective Computing, Computer Vision and Artificial Intelligence.
 Before joining ESTIA, he was as a postdoctoral researcher at IBM France Center for
 Advanced Studies (2015-2016). He was also a postdoctoral researcher at LIMSI-CNRS (2012-2015) and at
 INRIA Rennes (2011-2012). He received his PhD in Computer Science at Télécom SudParis, France, on May
@@ -42,7 +42,7 @@ education:
   - course: Master's Degree in Computer Science
     institution: Monterrey Institute of Technology and Higher Education (ITESM), Cuernavaca, Mexico
     year: 2004
-  - course: Bachelor's Degree in Computer Systems Engineering 
+  - course: Bachelor's Degree in Computer Systems Engineering
     institution:  Monterrey Institute of Technology and Higher Education (ITESM), Cuernavaca, Mexico
     year: 2002
 
