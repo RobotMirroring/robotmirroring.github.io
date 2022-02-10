@@ -73,6 +73,6 @@ user_groups:
 
 ---
 
-Jose Victorio Salazar Luces is an Assistant Professor at Tohoku University, Japan. He obtained his Bachelor degree in Systems Engineering at Los Andes University, in Merida, Venezuela. In 2013, he was awarded the MEXT Scholarship to pursue studies in robotics at Tohoku University. He obtained his Master’s and Ph.D. at Tohoku, and started working at the Smart Robots Design Laboratory since 2018. 
+Jose Victorio Salazar Luces is an Assistant Professor at Tohoku University, Japan. He obtained his Bachelor degree in Systems Engineering at Los Andes University, in Merida, Venezuela. In 2013, he was awarded the MEXT Scholarship to pursue studies in robotics at Tohoku University. He obtained his Master’s and Ph.D. at Tohoku, and started working at the Smart Robots Design Laboratory since 2018.
 
 His main research topic is in the area of Haptics, particularly using different types of haptic feedback to guide human motion. He was awarded a JSPS Grant-in-Aid for Early Career Scientists and the JSME Young Engineers Award in 2020.

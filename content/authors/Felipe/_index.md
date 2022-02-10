@@ -23,9 +23,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I work on soft robotics designs and control methods for assisting people with mobility impairments, (e.g., cerebral palsy, and spinal cord injuries) in posture transitions and locomotion, based on soft and compliance principles for robot design and control.
-I care a lot for the path that technology is taking and how we influence its way to improve our world.
-My main research work and interest are on wearable robotics, human-robot interaction, mobility systems, biomechanical design and medical robotics."
+bio: "I work on soft robotics designs and control methods for assisting people with mobility impairments in posture transitions and locomotion, based on soft and compliance principles for robot design and control."
 
 interests:
 - Artificial Intelligence
