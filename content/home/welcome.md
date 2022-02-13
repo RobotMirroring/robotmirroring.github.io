@@ -6,9 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: |
-  Robot Mirroring  
-  Research Group
+title:
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,8 +15,6 @@ design:
   css_style:
   css_class:
 ---
-
-<br>
 
 **Robot mirroring** is an independent research and development project.
 
